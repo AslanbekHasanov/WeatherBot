@@ -1,4 +1,6 @@
-﻿namespace WeatherBot.API.Models.Weathers
+﻿using Newtonsoft.Json;
+
+namespace WeatherBot.API.Models.Weathers
 {
     public class Rain
     {
